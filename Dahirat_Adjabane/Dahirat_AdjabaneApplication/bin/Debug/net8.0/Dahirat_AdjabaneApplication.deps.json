@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dahirat_AdjabaneApplication/1.0.0": {
+        "runtime": {
+          "Dahirat_AdjabaneApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dahirat_AdjabaneApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

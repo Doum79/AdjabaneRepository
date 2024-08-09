@@ -1,0 +1,6 @@
+@Dahirat_AdjabaneAPI_HostAddress = http://localhost:5122
+
+GET {{Dahirat_AdjabaneAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

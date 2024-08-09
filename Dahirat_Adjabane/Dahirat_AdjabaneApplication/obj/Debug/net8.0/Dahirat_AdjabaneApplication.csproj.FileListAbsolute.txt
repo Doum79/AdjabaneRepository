@@ -1,0 +1,14 @@
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\bin\Debug\net8.0\Dahirat_AdjabaneApplication.exe
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\bin\Debug\net8.0\Dahirat_AdjabaneApplication.deps.json
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\bin\Debug\net8.0\Dahirat_AdjabaneApplication.runtimeconfig.json
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\bin\Debug\net8.0\Dahirat_AdjabaneApplication.dll
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\bin\Debug\net8.0\Dahirat_AdjabaneApplication.pdb
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.AssemblyInfoInputs.cache
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.AssemblyInfo.cs
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.dll
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\refint\Dahirat_AdjabaneApplication.dll
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.pdb
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\Dahirat_AdjabaneApplication.genruntimeconfig.cache
+C:\Users\ASF\source\repos\Dahirat_Adjabane\Dahirat_AdjabaneApplication\obj\Debug\net8.0\ref\Dahirat_AdjabaneApplication.dll

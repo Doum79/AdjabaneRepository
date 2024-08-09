@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Dahirat_AdjabaneAPI.props" />
+</Project>
